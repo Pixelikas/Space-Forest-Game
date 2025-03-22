@@ -2,11 +2,11 @@
 Short platform game made with HTML, CSS and JavaScript.<br>
 The game was developed using Construct 3 in 2021.<br><br>
 
-AD - Move
-W - Jump (W Double Jump)
-Space -> Grenade
-Mouse Left -> Shoot
-Mouse Right -> Meele
+AD - Move<br>
+W - Jump (W Double Jump)<br>
+Space -> Grenade<br>
+Mouse Left -> Gun<br>
+Mouse Right -> Meele<br>
 Alt -> Flamethrower<br><br>
 
 NW.dll needed to run the build.<br>
